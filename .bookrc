@@ -1,0 +1,22 @@
+{
+  "name": "Broken to Harness",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/broken-to-harness/master/assets",
+  "book_id": 1166,
+  "book_url": "https://bubblin.io/book/broken-to-harness-by-edmund-yates"
+}
